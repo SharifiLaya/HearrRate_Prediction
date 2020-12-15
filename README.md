@@ -1,1 +1,1 @@
-# HearrRate_Prediction
+# HeartRate_Prediction
